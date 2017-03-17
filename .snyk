@@ -6,6 +6,12 @@ ignore:
     - react-native-code-push > code-push > superagent > qs:
         reason: None given
         expires: '2017-04-16T02:29:40.803Z'
+    - react-native > connect > qs:
+        reason: None given
+        expires: '2017-04-16T02:49:41.455Z'
+    - react-native > connect > body-parser > qs:
+        reason: None given
+        expires: '2017-04-16T02:49:41.456Z'
 # patches apply the minimum changes required to fix a vulnerability
 patch:
   'npm:negotiator:20160616':
