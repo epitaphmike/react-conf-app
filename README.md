@@ -1,6 +1,6 @@
 # React Conf 2017
 
-The companion app for [React Conf 2017](http://conf.reactjs.org) in Santa Clara, California. Powered by [React Native](https://facebook.github.io/react-native/), and built in Sydney by [Thinkmill](https://www.thinkmill.com.au).
+The companion app for [React Conf 2017](http://conf.reactjs.org) in Santa Clara, California. Powered by [React Native](https://facebook.github.io/react-native/), and built in Sydney by [Thinkmill](https://www.thinkmill.com.au). [![Build Status](https://travis-ci.org/epitaphmike/react-conf-app.svg?branch=master)](https://travis-ci.org/epitaphmike/react-conf-app)
 
 <a href="http://thinkmill.com.au/?utm_source=github&amp;utm_medium=badge&amp;utm_campaign=react-conf-app"><img src="https://camo.githubusercontent.com/1752e09ecedba599946d84f1b465bc1176434d5a/68747470733a2f2f7468696e6b6d696c6c2e6769746875622e696f2f62616467652f68656172742e737667" alt="Supported by Thinkmill" data-canonical-src="https://thinkmill.github.io/badge/heart.svg" style="max-width:100%;"></a>
 
